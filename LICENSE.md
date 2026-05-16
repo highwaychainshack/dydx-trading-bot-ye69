@@ -1,4 +1,4 @@
-# 
+# Get the ultimate dydx trading bot with quantitative dydx trading bot Strategy | MEV-strategies + transaction-batching. Featuring MEV-strategies and transaction-batching, it's the
 
 
 
